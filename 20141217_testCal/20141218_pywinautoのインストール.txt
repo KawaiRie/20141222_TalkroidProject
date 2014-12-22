@@ -1,0 +1,23 @@
+
+
+
+1 pythonの2系をインストール
+2 コマンドプロンプトからpywinautoをインストール
+  ※warningが出るが無視
+  
+  参照URL
+  http://hinpannafukutuu.blogspot.jp/2009/08/pywinauto.html
+  
+   【引用】
+    pywinautoのsetup.pyを使ってコマンドプロンプト上で 
+    setup.py install 
+    って打ってみたら、ctypesモジュールないとのエラー。 
+    よく分からないがpyScripterにsetup.pyを突っ込んで
+    引数にinstallを指定して動かしたらインストール成功。 
+    
+   【実画面】※実際にコマンドプロンプトでインストール
+    The following module has to be installed before running
+    pywinauto 
+    SendKeys
+    
+   
